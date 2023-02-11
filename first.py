@@ -62,4 +62,4 @@ x = 1
 # print(type(name))
 # print("name is:", name)
 
-# exerice : write a program that gets user's name and prints all chars reversley
+# exercise : write a program that gets user's name and prints all chars reversley
