@@ -63,3 +63,13 @@ x = 1
 # print("name is:", name)
 
 # exercise : write a program that gets user's name and prints all chars reversely
+
+# name = input('enter a name: ')
+
+# print(name[2])
+# print(name[1])
+# print(name[0])
+# print(name[2],name[1],name[0])
+
+string = 'abcdefghi'
+print(string[0:3])
