@@ -35,14 +35,25 @@
 # print(message)
 
 
-number1 = int(input('enter first number: '))
-number2 = int(input('enter second number: '))
+# number1 = int(input('enter first number: '))
+# number2 = int(input('enter second number: '))
 
-result = number1 + number2
+# result = number1 + number2
 
-print("result is :", result)
-print(f"{number1} + {number2} = {result}")
+# print("result is :", result)
+# print(f"{number1} + {number2} = {result}")
 
 # exercise 1 : سه عدد را از ورودی بگیر و عبارات زیر را به همین صورت با همین اعداد محاسبه کن . پرینت
 #  2 + 3*4 = 14
 #  4 + 8/2 = 8
+
+n1 = int(input('enter first number: '))
+n2 = int(input('enter second number: '))
+n3 = int(input('enter third number: '))
+
+s1 = f'{n1} + {n2} * {n3} = {n1 + n2 * n3}'
+s2 = f'{n1} + {n2} / {n3} = {n1 + n2 / n3}'
+print(s1)
+# print(s2)
+print(int(input('enter first number')) +
+      int(input('enter second number')) * int(input('enter third number')))
