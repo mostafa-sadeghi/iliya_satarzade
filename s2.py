@@ -47,13 +47,13 @@
 #  2 + 3*4 = 14
 #  4 + 8/2 = 8
 
-n1 = int(input('enter first number: '))
-n2 = int(input('enter second number: '))
-n3 = int(input('enter third number: '))
+# n1 = int(input('enter first number: '))
+# n2 = int(input('enter second number: '))
+# n3 = int(input('enter third number: '))
 
-s1 = f'{n1} + {n2} * {n3} = {n1 + n2 * n3}'
-s2 = f'{n1} + {n2} / {n3} = {n1 + n2 / n3}'
-print(s1)
+# s1 = f'{n1} + {n2} * {n3} = {n1 + n2 * n3}'
+# s2 = f'{n1} + {n2} / {n3} = {n1 + n2 / n3}'
+# print(s1)
 # print(s2)
-print(int(input('enter first number')) +
-      int(input('enter second number')) * int(input('enter third number')))
+# print(int(input('enter first number')) +
+#       int(input('enter second number')) * int(input('enter third number')))

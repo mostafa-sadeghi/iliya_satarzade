@@ -62,20 +62,44 @@
 # shopping_list = []
 # print(type(shopping_list))
 # list size is dynamic
-shopping_list = ["apple", "banana", "egg", "potato", "pen"]
-print(shopping_list)
+# shopping_list = ["apple", "banana", "egg", "potato", "pen"]
+# print(shopping_list)
 # python is dynamic type
 # x = 1
-print(shopping_list[0])
-print(shopping_list[1])
-print(shopping_list[2])
-print(shopping_list[3])
-print(shopping_list[4])
-print(shopping_list[0], shopping_list[1],
-      shopping_list[2], shopping_list[3], shopping_list[4])
+# print(shopping_list[0])
+# print(shopping_list[1])
+# print(shopping_list[2])
+# print(shopping_list[3])
+# print(shopping_list[4])
+# print(shopping_list[0], shopping_list[1],
+#       shopping_list[2], shopping_list[3], shopping_list[4])
 
-shopping_list.append("pencil")
-print("our new shopping list:", shopping_list)
+# shopping_list.append("pencil")
+# print("our new shopping list:", shopping_list)
 
 # برنامه ای بنویسید که 4 نام را از ورودی دریافت نماید و در لیستی اضافه کند
 # در انتها آیتم های لیست را پرینت نمائید به صورت خط به خط و نیز در یک خط کنار هم
+
+# names = []
+
+# n1 = input('enter a name:> ')
+# n2 = input('enter a name:> ')
+# n3 = input('enter a name:> ')
+# n4 = input('enter a name:> ')
+
+# names.append(n1)
+# names.append(n2)
+# names.append(n3)
+# names.append(n4)
+
+# print(names)
+# print(names[0], names[1], names[2], names[3])
+# print(names[0])
+# print(names[1])
+# print(names[2])
+# print(names[3])
+
+
+# یک لیست بساز
+# 4 عدد از ورودی بگیر و در لیست اضافه کن
+# مجموع اعداد موجود در لیست را محاسبه و پرینت کن
