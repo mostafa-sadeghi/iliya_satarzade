@@ -21,20 +21,20 @@
 # print('charcters are:', characters)
 
 
-names = []
+# names = []
 
-name1 = input('enter a name:> ')
-name2 = input('enter a name:> ')
-name3 = input('enter a name:> ')
+# name1 = input('enter a name:> ')
+# name2 = input('enter a name:> ')
+# name3 = input('enter a name:> ')
 
-names.append(name1)
-names.append(name2)
-names.append(name3)
+# names.append(name1)
+# names.append(name2)
+# names.append(name3)
 
-print("names:", names)
-print("we want to remove second name from our list ...")
-del names[1]  # names.pop(1)
-print("names:", names)
+# print("names:", names)
+# print("we want to remove second name from our list ...")
+# del names[1]  # names.pop(1)
+# print("names:", names)
 
 
 # exercise :
@@ -42,3 +42,19 @@ print("names:", names)
 # در لیستی ذخیره کند
 # اولین و آخرین عضو لیست را حذف کنید
 # مجموع اعداد باقی مانده در لیست را محاسبه و پرینت نمائید.
+# numbers = []
+
+# n1 = float(input('enter a number: '))
+# n2 = float(input('enter a number: '))
+# n3 = float(input('enter a number: '))
+# n4 = float(input('enter a number: '))
+# n5 = float(input('enter a number: '))
+# numbers.append(n1)
+# numbers.append(n2)
+# numbers.append(n3)
+# numbers.append(n4)
+# numbers.append(n5)
+# del numbers[0]
+# del numbers[-1]
+# print(sum(numbers))
+# print(numbers[0] + numbers[1] + numbers[2])
