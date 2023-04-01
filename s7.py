@@ -37,12 +37,21 @@ p.shape('strawberry.gif')
 
 # p.setx(150)
 # p.sety(-50)
-p.stamp()
-p.circle(23)
+# p.stamp()
+# p.circle(23)
+# p.penup()
+# p.goto(100, 100)
+# p.stamp()
+# p.ht()
+
 p.penup()
 p.goto(100, 100)
 p.stamp()
-p.ht()
+
+p.goto(50, 50)
+p.stamp()
+p.pendown()
+p.setposition(-10, 10)
 
 
 # p.seth(45) # p.setheading(45)
