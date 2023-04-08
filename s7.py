@@ -19,15 +19,15 @@
 # print(favorite_sports)
 
 
-import turtle
+# import turtle
 
-s = turtle.Screen()
-s.register_shape('strawberry.gif')
-s.setup(420, 320)
-s.bgpic('background.png')
-s.bgcolor("cyan")
-p = turtle.Pen()
-p.shape('strawberry.gif')
+# s = turtle.Screen()
+# s.register_shape('strawberry.gif')
+# s.setup(420, 320)
+# s.bgpic('background.png')
+# s.bgcolor("cyan")
+# p = turtle.Pen()
+# p.shape('strawberry.gif')
 
 
 #############################################################
@@ -72,4 +72,4 @@ p.setposition(-10, 10)
 # p.forward(100)
 # p.left(120)
 
-s.exitonclick()
+# s.exitonclick()
