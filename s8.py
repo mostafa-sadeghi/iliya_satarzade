@@ -65,8 +65,8 @@ if not b:
 
 # and   or    not
 
-a = 3
-b = 3
+# a = 3
+# b = 3
 
-c = a == b
-print(c)
+# c = a == b
+# print(c)
